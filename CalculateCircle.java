@@ -18,7 +18,7 @@ class CalculateCircle
       System.out.println("The area of circle is: " + area);
       //Circumference = 2*PI*radius
       double circumference= Math.PI * 2*radius;
-      System.out.println( "The circumference of the circle is:"+circumference) ;
+      System.out.println( "The circumference of the circle is: "+ circumference) ;
       radius = radius *2;
         System.out.println("double the radius is" + radius);
         //Area = PI*radius*radius
