@@ -82,7 +82,7 @@ if (minBmi < BMI)
 
   
 }
-if (minBmi <BMI)
+
 
 
 /* Enhance the program
